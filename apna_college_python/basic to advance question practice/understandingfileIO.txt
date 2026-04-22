@@ -1,0 +1,7 @@
+r+ mode in python , pointer is at the beginning of the file  but if we have already read the file before the pointer will be at the last of the file  be as the reverse() cannot be use
+d as list3 =  list2.reverse() where as list2 = list1.copy() gives a new list? what is
+he difference between these two methods is there dif
+ferent kind of methods or these tw
+o are not alike
+
+r+ mode in python , pointer is at the beginning of the file  r+ mode in python , pointer is at the beginning of the file  but if we have already read the file before the pointer will be at the last of the file
